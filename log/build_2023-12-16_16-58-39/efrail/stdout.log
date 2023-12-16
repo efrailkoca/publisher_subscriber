@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/efrail/efrail.egg-info/PKG-INFO
+writing dependency_links to ../../build/efrail/efrail.egg-info/dependency_links.txt
+writing entry points to ../../build/efrail/efrail.egg-info/entry_points.txt
+writing requirements to ../../build/efrail/efrail.egg-info/requires.txt
+writing top-level names to ../../build/efrail/efrail.egg-info/top_level.txt
+reading manifest file '../../build/efrail/efrail.egg-info/SOURCES.txt'
+writing manifest file '../../build/efrail/efrail.egg-info/SOURCES.txt'
+running build
+running build_py
+copying efrail/subscriber_member_function.py -> /home/ubuntu/hw_ws/build/efrail/build/lib/efrail
+copying efrail/publisher_member_function.py -> /home/ubuntu/hw_ws/build/efrail/build/lib/efrail
+running install
+running install_lib
+copying /home/ubuntu/hw_ws/build/efrail/build/lib/efrail/subscriber_member_function.py -> /home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages/efrail
+copying /home/ubuntu/hw_ws/build/efrail/build/lib/efrail/publisher_member_function.py -> /home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages/efrail
+byte-compiling /home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages/efrail/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+byte-compiling /home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages/efrail/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+running install_data
+copying package.xml -> /home/ubuntu/hw_ws/install/efrail/share/efrail
+running install_egg_info
+removing '/home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages/efrail-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/efrail/efrail.egg-info to /home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages/efrail-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listener script to /home/ubuntu/hw_ws/install/efrail/lib/efrail
+Installing talker script to /home/ubuntu/hw_ws/install/efrail/lib/efrail
+writing list of installed files to '/home/ubuntu/hw_ws/build/efrail/install.log'

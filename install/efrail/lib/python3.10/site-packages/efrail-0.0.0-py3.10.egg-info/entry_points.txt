@@ -1,0 +1,4 @@
+[console_scripts]
+listener = efrail.subscriber_member_function:main
+talker = efrail.publisher_member_function:main
+

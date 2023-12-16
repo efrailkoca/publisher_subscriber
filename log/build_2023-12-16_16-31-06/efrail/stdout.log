@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/efrail/efrail.egg-info
+writing ../../build/efrail/efrail.egg-info/PKG-INFO
+writing dependency_links to ../../build/efrail/efrail.egg-info/dependency_links.txt
+writing entry points to ../../build/efrail/efrail.egg-info/entry_points.txt
+writing requirements to ../../build/efrail/efrail.egg-info/requires.txt
+writing top-level names to ../../build/efrail/efrail.egg-info/top_level.txt
+writing manifest file '../../build/efrail/efrail.egg-info/SOURCES.txt'
+reading manifest file '../../build/efrail/efrail.egg-info/SOURCES.txt'
+writing manifest file '../../build/efrail/efrail.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ubuntu/hw_ws/build/efrail/build
+creating /home/ubuntu/hw_ws/build/efrail/build/lib
+creating /home/ubuntu/hw_ws/build/efrail/build/lib/efrail
+copying efrail/__init__.py -> /home/ubuntu/hw_ws/build/efrail/build/lib/efrail
+running install
+running install_lib
+creating /home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages/efrail
+copying /home/ubuntu/hw_ws/build/efrail/build/lib/efrail/__init__.py -> /home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages/efrail
+byte-compiling /home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages/efrail/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/ubuntu/hw_ws/install/efrail/share/ament_index
+creating /home/ubuntu/hw_ws/install/efrail/share/ament_index/resource_index
+creating /home/ubuntu/hw_ws/install/efrail/share/ament_index/resource_index/packages
+copying resource/efrail -> /home/ubuntu/hw_ws/install/efrail/share/ament_index/resource_index/packages
+copying package.xml -> /home/ubuntu/hw_ws/install/efrail/share/efrail
+running install_egg_info
+Copying ../../build/efrail/efrail.egg-info to /home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages/efrail-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/ubuntu/hw_ws/build/efrail/install.log'

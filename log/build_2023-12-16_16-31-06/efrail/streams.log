@@ -1,0 +1,35 @@
+[0.291s] Invoking command in '/home/ubuntu/hw_ws/src/efrail': PYTHONPATH=/home/ubuntu/hw_ws/build/efrail/prefix_override:/home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/efrail build --build-base /home/ubuntu/hw_ws/build/efrail/build install --record /home/ubuntu/hw_ws/build/efrail/install.log --single-version-externally-managed
+[0.386s] running egg_info
+[0.386s] creating ../../build/efrail/efrail.egg-info
+[0.386s] writing ../../build/efrail/efrail.egg-info/PKG-INFO
+[0.386s] writing dependency_links to ../../build/efrail/efrail.egg-info/dependency_links.txt
+[0.387s] writing entry points to ../../build/efrail/efrail.egg-info/entry_points.txt
+[0.387s] writing requirements to ../../build/efrail/efrail.egg-info/requires.txt
+[0.387s] writing top-level names to ../../build/efrail/efrail.egg-info/top_level.txt
+[0.387s] writing manifest file '../../build/efrail/efrail.egg-info/SOURCES.txt'
+[0.387s] reading manifest file '../../build/efrail/efrail.egg-info/SOURCES.txt'
+[0.388s] writing manifest file '../../build/efrail/efrail.egg-info/SOURCES.txt'
+[0.388s] running build
+[0.388s] running build_py
+[0.388s] creating /home/ubuntu/hw_ws/build/efrail/build
+[0.388s] creating /home/ubuntu/hw_ws/build/efrail/build/lib
+[0.388s] creating /home/ubuntu/hw_ws/build/efrail/build/lib/efrail
+[0.388s] copying efrail/__init__.py -> /home/ubuntu/hw_ws/build/efrail/build/lib/efrail
+[0.388s] running install
+[0.388s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.388s]   warnings.warn(
+[0.389s] running install_lib
+[0.389s] creating /home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages/efrail
+[0.389s] copying /home/ubuntu/hw_ws/build/efrail/build/lib/efrail/__init__.py -> /home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages/efrail
+[0.389s] byte-compiling /home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages/efrail/__init__.py to __init__.cpython-310.pyc
+[0.389s] running install_data
+[0.389s] creating /home/ubuntu/hw_ws/install/efrail/share/ament_index
+[0.389s] creating /home/ubuntu/hw_ws/install/efrail/share/ament_index/resource_index
+[0.389s] creating /home/ubuntu/hw_ws/install/efrail/share/ament_index/resource_index/packages
+[0.389s] copying resource/efrail -> /home/ubuntu/hw_ws/install/efrail/share/ament_index/resource_index/packages
+[0.389s] copying package.xml -> /home/ubuntu/hw_ws/install/efrail/share/efrail
+[0.389s] running install_egg_info
+[0.390s] Copying ../../build/efrail/efrail.egg-info to /home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages/efrail-0.0.0-py3.10.egg-info
+[0.390s] running install_scripts
+[0.400s] writing list of installed files to '/home/ubuntu/hw_ws/build/efrail/install.log'
+[0.411s] Invoked command in '/home/ubuntu/hw_ws/src/efrail' returned '0': PYTHONPATH=/home/ubuntu/hw_ws/build/efrail/prefix_override:/home/ubuntu/hw_ws/install/efrail/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/efrail build --build-base /home/ubuntu/hw_ws/build/efrail/build install --record /home/ubuntu/hw_ws/build/efrail/install.log --single-version-externally-managed
